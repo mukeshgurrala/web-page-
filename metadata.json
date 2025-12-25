@@ -1,0 +1,9 @@
+{
+  "name": "SRI LAXMI PHYSIOTHERY - Modern Physiotherapy Redesign",
+  "description": "A high-conversion, AI-powered physiotherapy clinic platform that extracts legacy clinic data and transforms it into a premium 2025 web experience.",
+  "requestFramePermissions": [
+    
+    "camera",
+    "geolocation"
+  ]
+}
